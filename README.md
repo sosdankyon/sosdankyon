@@ -1,1 +1,1 @@
-!()[my-github-stats.svg]
+![stat](my-github-stats.svg)
